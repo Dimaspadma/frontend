@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        Testing Cloud Build Trigger
+        Testing Cloud Build Trigger!
       </h1>
       <h2 class="subtitle">
         JAKARTA
